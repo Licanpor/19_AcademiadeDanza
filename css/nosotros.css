@@ -1,0 +1,34 @@
+.bkd-a{
+	background-image: url("../img/dance_7.jpg");
+}
+.b-b{
+ border-bottom: 1px solid gray;
+ padding: 8%;
+ margin-bottom: 9%;
+ font-size: 20px;
+}
+.bkd-b{
+ background-image: url("../img/cubes.png");
+}
+.bkd-c{
+	background-color: black;
+	opacity: 0.5;
+	width: 500px;
+	padding: 3%;
+	margin: 50px 30%;
+
+}
+.prf-img{
+	width: 250px;
+	height: 200px;
+}
+.mg{
+	margin-bottom: 2%;
+}
+.pd-rl{
+	padding-right: 5%;
+	padding-left: 8%;
+}
+.mg-b{
+	margin-bottom: 100px;
+}

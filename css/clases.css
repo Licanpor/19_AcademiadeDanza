@@ -1,0 +1,33 @@
+.bkd-d{
+	background-image: url("../img/dance_12.jpg");
+}
+.bkd-e{
+	background-image: url("../img/breakdance.jpg");
+}
+.bkd-f{
+	background-image: url("../img/lirical-jazz.jpg");
+}
+.bkd-g{
+	background-image: url("../img/arabe.jpg");
+}
+.bkd-h{
+	background-image: url("../img/little.jpg");
+}
+.bkd-i{
+	background-image: url("../img/yoga.jpg");
+}
+.bkd-j{
+	background-color: black;
+	opacity: 0.5;
+	padding: 5%;
+}
+.bkd-0{
+	width: 270px;
+	height: 350px;
+	padding: 10% 2%;
+	margin: 2%;
+}
+.pd-ls{
+	padding-right: 15%; 
+	padding-left: 15%;
+}
